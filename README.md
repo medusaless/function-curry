@@ -1,5 +1,5 @@
 # function-curry
-学习ramda源码，仿照写了一个curry的简单版本（2参数）
+学习ramda源码，仿照写了一个curry的简单版本
 
 注：
 1.在写这个代码的时候，遇到一个switch的以前没有注意的小问题。
